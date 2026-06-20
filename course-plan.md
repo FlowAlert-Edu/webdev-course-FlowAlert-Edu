@@ -52,7 +52,7 @@ Los estudiantes solo necesitan usar un navegador web moderno. No se requiere ins
 **Editor online:** CodePen  
 **Archivo inicial:** starter-files/lesson-01-web-intro/  
 **Ejemplo completo:** completed-examples/lesson-01-web-intro/  
-**Video:** pendiente  
+**Video:** https://youtu.be/KhT1jSkZ8Bw?si=Vpwz8hU315N-2xZc
 **Práctica online:** pendiente  
 
 **Descripción:**  
@@ -70,7 +70,7 @@ El estudiante comprende que HTML estructura el contenido y CSS mejora el diseño
 **Editor online:** CodePen  
 **Archivo inicial:** starter-files/lesson-02-html-basics/  
 **Ejemplo completo:** completed-examples/lesson-02-html-basics/  
-**Video:** pendiente  
+**Video:** https://youtu.be/3naLnQq8050?si=X_KiBk64__z7DhcU
 **Práctica online:** pendiente  
 
 **Descripción:**  
@@ -88,7 +88,7 @@ El estudiante puede crear un título, un párrafo y un enlace básico.
 **Editor online:** CodePen  
 **Archivo inicial:** starter-files/lesson-03-headings-paragraphs/  
 **Ejemplo completo:** completed-examples/lesson-03-headings-paragraphs/  
-**Video:** pendiente  
+**Video:** https://youtu.be/6fLhYQSDdb0?si=KejKCkGHvwF0O5o4
 **Práctica online:** pendiente  
 
 **Descripción:**  
@@ -106,7 +106,7 @@ El estudiante puede crear una página de perfil con secciones simples.
 **Editor online:** CodePen  
 **Archivo inicial:** starter-files/lesson-04-lists-images-links/  
 **Ejemplo completo:** completed-examples/lesson-04-lists-images-links/  
-**Video:** pendiente  
+**Video:** https://youtu.be/fDcVqfNfaH8?si=TI4EoVjrfNzVxmbF
 **Práctica online:** pendiente  
 
 **Descripción:**  
@@ -124,7 +124,7 @@ El estudiante puede enriquecer una página usando elementos HTML comunes.
 **Editor online:** CodePen  
 **Archivo inicial:** starter-files/lesson-05-css-intro/  
 **Ejemplo completo:** completed-examples/lesson-05-css-intro/  
-**Video:** pendiente  
+**Video:** https://youtu.be/Tt5jgop-VFI?si=_HvqkHcHQa3Q4XBf
 **Práctica online:** pendiente  
 
 **Descripción:**  
@@ -142,7 +142,7 @@ El estudiante puede cambiar colores, fondo y fuente de una página.
 **Editor online:** CodePen  
 **Archivo inicial:** starter-files/lesson-06-simple-css-styles/  
 **Ejemplo completo:** completed-examples/lesson-06-simple-css-styles/  
-**Video:** pendiente  
+**Video:** https://youtu.be/moRvs3rfEQA?si=eapmPYqnvCgLWSaa
 **Práctica online:** pendiente  
 
 **Descripción:**  
@@ -160,7 +160,7 @@ El estudiante puede aplicar ancho, margen, relleno, borde, fondo y alineación.
 **Editor online:** CodePen  
 **Archivo inicial:** starter-files/lesson-07-profile-page-project/  
 **Ejemplo completo:** completed-examples/lesson-07-profile-page-project/  
-**Video:** pendiente  
+**Video:** pendiente
 **Práctica online:** pendiente  
 
 **Descripción:**  
@@ -178,7 +178,7 @@ El estudiante crea una página de perfil personal con imagen, título, descripci
 **Editor online:** CodePen  
 **Archivo inicial:** starter-files/lesson-08-best-practices-errors/  
 **Ejemplo completo:** completed-examples/lesson-08-best-practices-errors/  
-**Video:** pendiente  
+**Video:** https://youtu.be/XoZDbhaHFj8?si=HgyYSL_JIBV0sXnm
 **Práctica online:** pendiente  
 
 **Descripción:**  
